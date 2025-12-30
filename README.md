@@ -40,13 +40,9 @@ I'm a passionate developer who loves creating practical tools and exploring new 
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarTaheri&show_icons=true&theme=tokyonight" alt="Omar's Stats" />
   <br/>
-  <a href="https://github.com/readme-stats/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarTaheri&show_icons=true&theme=tokyonight&count_private=true" alt="Omar's Stats"/>
-  </a>
-  <a href="https://github.com/readme-stats/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaheri&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaheri&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
