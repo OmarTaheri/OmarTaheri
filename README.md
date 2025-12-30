@@ -15,7 +15,7 @@
 
 ### 🧐 About Me
 
-I'm a passionate developer who loves creating practical tools and exploring new technologies. When I'm not coding up a new project in TypeScript or Python, I'm usually tinkering with my self-hosted homelab setup.
+I'm a passionate developer who loves creating practical tools and exploring new technologies. When I'm not coding up a new project in TypeScript or Python, I'm usually maintaining my self-hosted services.
 
 ... oh, and just so we are clear:
 
@@ -33,16 +33,6 @@ I'm a passionate developer who loves creating practical tools and exploring new 
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarTaheri&show_icons=true&theme=tokyonight" alt="Omar's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaheri&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
